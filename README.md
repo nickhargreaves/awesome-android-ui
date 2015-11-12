@@ -102,6 +102,9 @@ Name | License | Demo
 [AndroidSweetSheet](https://github.com/zzz40500/AndroidSweetSheet) | [Apache License V2](https://www.apache.org/licenses/LICENSE-2.0) | <img src="/art/AndroidSweetSheet.gif" width="100%">
 [FABRevealLayout](https://github.com/truizlop/FABRevealLayout) | [Apache License V2](https://www.apache.org/licenses/LICENSE-2.0) | <img src="/art/FABRevealLayout.gif" width="49%">
 [ToggleExpandLayout](https://github.com/fenjuly/ToggleExpandLayout) | [MIT](http://opensource.org/licenses/MIT) | <img src="/art/ToggleExpandLayout.gif" width="49%">
+[FlowingDrawer](https://github.com/mxn21/FlowingDrawer) | [Apache License V2](https://www.apache.org/licenses/LICENSE-2.0) | <img src="/art/FlowingDrawer.gif" width="65%">
+[WaveView](https://github.com/gelitenight/WaveView) | [Apache License V2](https://www.apache.org/licenses/LICENSE-2.0) | <img src="/art/gelitenight-WaveView.gif" width="65%">
+[FoldableLayout](https://github.com/worldline/FoldableLayout) | [Apache License V2](https://www.apache.org/licenses/LICENSE-2.0) | <img src="/art/FoldableLayout.gif" width="49%">
 
 Button
 ======================
@@ -145,6 +148,8 @@ Name | License | Demo
 [RecyclerItemDecoration](https://github.com/magiepooh/RecyclerItemDecoration) | [Apache License V2](https://www.apache.org/licenses/LICENSE-2.0) | <img src="/art/recycler-itemdecoration1.gif" width="49%"> <img src="/art/recycler-itemdecoration2.gif" width="49%">
 [MaterialRecents](https://github.com/ZieIony/MaterialRecents) | [Apache License V2](https://www.apache.org/licenses/LICENSE-2.0) | <img src="/art/MaterialRecents.gif" width="49%">
 [Dividers](https://github.com/Karumi/Dividers) | [Apache License V2](https://www.apache.org/licenses/LICENSE-2.0) | <img src="/art/Dividers.gif" width="49%">
+[Drag Select Recycler View](https://github.com/afollestad/drag-select-recyclerview) | [MIT](http://opensource.org/licenses/MIT) | <img src="/art/drag-select-recyclerview.gif" width="49%" />
+[sticky-headers-recyclerview](https://github.com/timehop/sticky-headers-recyclerview) | [Apache License V2](https://www.apache.org/licenses/LICENSE-2.0) | <img src="/art/sticky-headers-recyclerview.gif" width="49%">
 
 ViewPager
 ======================
@@ -183,6 +188,7 @@ Name | License | Demo
 [SizeAdjustingTextView](https://github.com/erchenger/SizeAdjustingTextView) | [GNU License](http://www.gnu.org/licenses/gpl-3.0.en.html) | NONE
 [ParkedTextView](https://github.com/gotokatsuya/ParkedTextView) | [MIT](http://opensource.org/licenses/MIT) | <img src="/art/ParkedTextView.gif" width="60%">
 [Material Code input](https://github.com/glomadrian/material-code-input) | [Apache License V2](https://www.apache.org/licenses/LICENSE-2.0) | <img src="/art/material-code-input.gif" width="60%"> <br><br> <img src="/art/material-code-input2.gif" width="60%">
+[TextSurface](https://github.com/elevenetc/TextSurface) | [Apache License V2](https://www.apache.org/licenses/LICENSE-2.0) | <img src="/art/TextSurface.gif" width="100%">
 
 Image
 ======================
@@ -235,6 +241,7 @@ Name | License | Demo
 [Side-Menu.Android](https://github.com/Yalantis/Side-Menu.Android) | [Apache License V2](https://www.apache.org/licenses/LICENSE-2.0) | <img src="/art/Side-Menu.Android.gif" width="100%">
 [Context-Menu.Android](https://github.com/Yalantis/Context-Menu.Android) | [Apache License V2](https://www.apache.org/licenses/LICENSE-2.0) | <img src="/art/Context-Menu.Android.gif" width="100%">
 [GuillotineMenu-Android](https://github.com/Yalantis/GuillotineMenu-Android) | [Apache License V2](https://www.apache.org/licenses/LICENSE-2.0) | <img src="/art/GuillotineMenu-Android.gif" width="100%">
+[AVLoadingIndicatorView](https://github.com/81813780/AVLoadingIndicatorView) | [Apache License V2](https://www.apache.org/licenses/LICENSE-2.0) | <img src="/art/AVLoadingIndicatorView.gif" width="49%">
 
 ActionBar
 ======================
@@ -312,6 +319,7 @@ Name | License | Demo
 [BlurBehind](https://github.com/faradaj/BlurBehind) | [MIT](http://opensource.org/licenses/MIT) | <img src="/art/BlurBehind.png" width="49%"> <img src="/art/BlurBehind2.png" width="49%">
 [Android StackBlur](https://github.com/kikoso/android-stackblur) | [Apache License V2](https://www.apache.org/licenses/LICENSE-2.0) | <img src="/art/android-stackblur.png" width="100%">
 [EdgeEffectOverride](https://github.com/AndroidAlliance/EdgeEffectOverride) | [Apache License V2](https://www.apache.org/licenses/LICENSE-2.0) | <img src="/art/EdgeEffectOverride.jpeg" width="100%">
+[ExplosionField](https://github.com/tyrantgit/ExplosionField) | [Apache License V2](https://www.apache.org/licenses/LICENSE-2.0) | <img src="/art/ExplosionField.gif" width="49%">
 
 Other
 ======================
